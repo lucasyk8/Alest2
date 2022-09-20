@@ -28,5 +28,8 @@ Nome: Lucas Yugi Kumagai 21110496
    
     
 #4. Os resultados dos casos de testes 
-
+    ![image](https://user-images.githubusercontent.com/80711078/191154787-c699bef5-4d5d-4abe-9f4a-4d298956a474.png)
+    ![image](https://user-images.githubusercontent.com/80711078/191154858-14c2dbc4-cd02-4fe9-8865-260fdcd6d201.png)
 #5. Conclusões
+    O trabalho teve um grau de dificuldade elevado em comparação aos outros porém agregou muito ao meu conhecimento 
+    sobre algoritmos.
