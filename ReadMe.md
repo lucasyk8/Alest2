@@ -24,6 +24,8 @@ Nome: Lucas Yugi Kumagai 21110496
    
    ![image](https://user-images.githubusercontent.com/80711078/191153243-5f398b49-01ef-44ef-b013-89129b756570.png)
    
+   ![image](https://user-images.githubusercontent.com/80711078/191154352-c5d39ca3-d4ec-4bd1-974d-60c8b7a20b06.png)
+   
     
 #4. Os resultados dos casos de testes 
 
