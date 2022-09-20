@@ -1,4 +1,7 @@
-jarro so pode ter ate tamanho 40
+14 16 15
+3 1 1
+4 0 1
+Movimentos: 1
 17 29 22
 1 17 9
 0 10 17
