@@ -13,7 +13,7 @@ Nome: Lucas Yugi Kumagai 21110496
     O processo de resolução foi 
     abrir o arquivo e modelar para uma lista 
     
-    ![image](https://user-images.githubusercontent.com/80711078/191148791-ea1af342-1c8b-4bc3-901b-f3c9d64f359d.png)
+   ![image](https://user-images.githubusercontent.com/80711078/191148791-ea1af342-1c8b-4bc3-901b-f3c9d64f359d.png)
    
     
 #4. Os resultados dos casos de testes 
