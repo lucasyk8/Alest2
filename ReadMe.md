@@ -15,14 +15,8 @@ Nome: Lucas Yugi Kumagai 21110496
     
     ![image](https://user-images.githubusercontent.com/80711078/191148791-ea1af342-1c8b-4bc3-901b-f3c9d64f359d.png)
     
-    As exceções para casos especiais comentadas
+    As exceções para casos especiais comentadas 
     
-    
-    
-    ![image](https://user-images.githubusercontent.com/80711078/191150625-991f3830-111a-4947-b435-e408974d6a6a.png)
-    
-    
-
 #4. Os resultados dos casos de testes 
 
 #5. Conclusões
