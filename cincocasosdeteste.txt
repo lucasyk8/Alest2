@@ -1,0 +1,20 @@
+25 29 17
+20 4 9
+11 5 17
+Movimentos: 13
+19 14 11
+7 5 2
+9 0 5
+Movimentos: 2
+21 23 21
+8 1 0
+0 0 9
+Movimentos: 2
+13 13 26
+5 2 10
+0 5 12
+Movimentos: 2
+21 13 14
+2 3 6
+2 0 9
+Movimentos: 1
