@@ -17,6 +17,8 @@ Nome: Lucas Yugi Kumagai 21110496
     
     As exceções para casos especiais comentadas
     
+    
+    
     ![image](https://user-images.githubusercontent.com/80711078/191150625-991f3830-111a-4947-b435-e408974d6a6a.png)
     
     
