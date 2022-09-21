@@ -1,3 +1,6 @@
+#Lucas Yugi Kumagai - 21110496
+#trabalho de alest2 sobre os jarros de sheik 
+
 import queue
 
 #abre o txt
